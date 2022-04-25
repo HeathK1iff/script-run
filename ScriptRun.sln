@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScriptRun", "ScriptRun\ScriptRun.csproj", "{B54EB84E-F8DE-4FBC-81C4-9AAB4039DCB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScriptRunTest", "ScriptRunTest\ScriptRunTest.csproj", "{9BDE4D96-0EDA-408A-ABE9-1EA99BF440CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54EB84E-F8DE-4FBC-81C4-9AAB4039DCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54EB84E-F8DE-4FBC-81C4-9AAB4039DCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54EB84E-F8DE-4FBC-81C4-9AAB4039DCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54EB84E-F8DE-4FBC-81C4-9AAB4039DCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDE4D96-0EDA-408A-ABE9-1EA99BF440CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDE4D96-0EDA-408A-ABE9-1EA99BF440CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDE4D96-0EDA-408A-ABE9-1EA99BF440CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDE4D96-0EDA-408A-ABE9-1EA99BF440CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02807B4C-BB34-4472-BBED-0AA746448442}
+	EndGlobalSection
+EndGlobal
